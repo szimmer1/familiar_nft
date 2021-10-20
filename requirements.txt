@@ -1,0 +1,5 @@
+fastapi
+fastapi-login
+sqlalchemy
+uvicorn
+pytest
